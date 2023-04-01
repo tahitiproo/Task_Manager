@@ -1,0 +1,149 @@
+C:\Users\Никита\Desktop\fakk\Task Manager\bin\Debug\Task Manager.exe.config
+C:\Users\Никита\Desktop\fakk\Task Manager\bin\Debug\Task Manager.exe
+C:\Users\Никита\Desktop\fakk\Task Manager\bin\Debug\Task Manager.pdb
+C:\Users\Никита\Desktop\fakk\Task Manager\obj\Debug\Task Manager.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\fakk\Task Manager\obj\Debug\Task Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Никита\Desktop\fakk\Task Manager\obj\Debug\Task_Manager.Form1.resources
+C:\Users\Никита\Desktop\fakk\Task Manager\obj\Debug\Task_Manager.Properties.Resources.resources
+C:\Users\Никита\Desktop\fakk\Task Manager\obj\Debug\Task Manager.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\fakk\Task Manager\obj\Debug\Task Manager.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\fakk\Task Manager\obj\Debug\Task Manager.exe
+C:\Users\Никита\Desktop\fakk\Task Manager\obj\Debug\Task Manager.pdb
+C:\Users\Никита\Desktop\fakk\Task Manager\obj\Debug\Task_Manager.Registation.resources
+C:\Users\Gachiman\Source\Repos\Task-Manager\Task Manager\bin\Debug\Task Manager.exe.config
+C:\Users\Gachiman\Source\Repos\Task-Manager\Task Manager\bin\Debug\Task Manager.exe
+C:\Users\Gachiman\Source\Repos\Task-Manager\Task Manager\bin\Debug\Task Manager.pdb
+C:\Users\Gachiman\Source\Repos\Task-Manager\Task Manager\obj\Debug\Task Manager.csproj.AssemblyReference.cache
+C:\Users\Gachiman\Source\Repos\Task-Manager\Task Manager\obj\Debug\Task Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gachiman\Source\Repos\Task-Manager\Task Manager\obj\Debug\Task_Manager.Form1.resources
+C:\Users\Gachiman\Source\Repos\Task-Manager\Task Manager\obj\Debug\Task_Manager.Properties.Resources.resources
+C:\Users\Gachiman\Source\Repos\Task-Manager\Task Manager\obj\Debug\Task_Manager.Registation.resources
+C:\Users\Gachiman\Source\Repos\Task-Manager\Task Manager\obj\Debug\Task Manager.csproj.GenerateResource.cache
+C:\Users\Gachiman\Source\Repos\Task-Manager\Task Manager\obj\Debug\Task Manager.csproj.CoreCompileInputs.cache
+C:\Users\Gachiman\Source\Repos\Task-Manager\Task Manager\obj\Debug\Task Manager.exe
+C:\Users\Gachiman\Source\Repos\Task-Manager\Task Manager\obj\Debug\Task Manager.pdb
+C:\Users\Gachiman\source\repos\Task-Manager\Task Manager\bin\Debug\Database1.mdf
+C:\Users\Gachiman\source\repos\Task-Manager\Task Manager\bin\Debug\Database1_log.ldf
+C:\Users\Никита\Source\Repos\Task-Manager\Task Manager\bin\Debug\Database1.mdf
+C:\Users\Никита\Source\Repos\Task-Manager\Task Manager\bin\Debug\Database1_log.ldf
+C:\Users\Никита\Source\Repos\Task-Manager\Task Manager\bin\Debug\Task Manager.exe.config
+C:\Users\Никита\Source\Repos\Task-Manager\Task Manager\bin\Debug\Task Manager.exe
+C:\Users\Никита\Source\Repos\Task-Manager\Task Manager\bin\Debug\Task Manager.pdb
+C:\Users\Никита\Source\Repos\Task-Manager\Task Manager\obj\Debug\Task Manager.csproj.AssemblyReference.cache
+C:\Users\Никита\Source\Repos\Task-Manager\Task Manager\obj\Debug\Task Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Никита\Source\Repos\Task-Manager\Task Manager\obj\Debug\Task_Manager.Form1.resources
+C:\Users\Никита\Source\Repos\Task-Manager\Task Manager\obj\Debug\Task_Manager.Properties.Resources.resources
+C:\Users\Никита\Source\Repos\Task-Manager\Task Manager\obj\Debug\Task_Manager.Registation.resources
+C:\Users\Никита\Source\Repos\Task-Manager\Task Manager\obj\Debug\Task Manager.csproj.GenerateResource.cache
+C:\Users\Никита\Source\Repos\Task-Manager\Task Manager\obj\Debug\Task Manager.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Source\Repos\Task-Manager\Task Manager\obj\Debug\Task Manager.exe
+C:\Users\Никита\Source\Repos\Task-Manager\Task Manager\obj\Debug\Task Manager.pdb
+C:\Users\Gachiman\source\repos\Task-Manager\Task Manager1\Task Manager\obj\Debug\Task Manager.csproj.AssemblyReference.cache
+C:\Users\Gachiman\source\repos\Task-Manager\Task Manager1\Task Manager\obj\Debug\Task Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gachiman\source\repos\Task-Manager\Task Manager1\Task Manager\obj\Debug\Task_Manager.Form1.resources
+C:\Users\Gachiman\source\repos\Task-Manager\Task Manager1\Task Manager\obj\Debug\Task_Manager.Properties.Resources.resources
+C:\Users\Gachiman\source\repos\Task-Manager\Task Manager1\Task Manager\obj\Debug\Task_Manager.Registation.resources
+C:\Users\Gachiman\source\repos\Task-Manager\Task Manager1\Task Manager\obj\Debug\Task Manager.csproj.GenerateResource.cache
+C:\Users\Gachiman\source\repos\Task-Manager\Task Manager1\Task Manager\obj\Debug\Task Manager.csproj.CoreCompileInputs.cache
+C:\Users\Gachiman\source\repos\Task-Manager\Task Manager1\Task Manager\obj\Debug\Task Manager.exe
+C:\Users\Gachiman\source\repos\Task-Manager\Task Manager1\Task Manager\obj\Debug\Task Manager.pdb
+C:\Users\Gachiman\source\repos\Task-Manager\Task Manager1\Task Manager\bin\Debug\Database1.mdf
+C:\Users\Gachiman\source\repos\Task-Manager\Task Manager1\Task Manager\bin\Debug\Database1_log.ldf
+C:\Users\Gachiman\source\repos\Task-Manager\Task Manager1\Task Manager\bin\Debug\Task Manager.exe.config
+C:\Users\Gachiman\source\repos\Task-Manager\Task Manager1\Task Manager\bin\Debug\Task Manager.exe
+C:\Users\Gachiman\source\repos\Task-Manager\Task Manager1\Task Manager\bin\Debug\Task Manager.pdb
+C:\Users\Gachiman\source\repos\Task-Manager\Task Manager\Task Manager\bin\Debug\Database1.mdf
+C:\Users\Gachiman\source\repos\Task-Manager\Task Manager\Task Manager\bin\Debug\Database1_log.ldf
+C:\Users\Gachiman\source\repos\Task-Manager\Task Manager\Task Manager\bin\Debug\Task Manager.exe.config
+C:\Users\Gachiman\source\repos\Task-Manager\Task Manager\Task Manager\bin\Debug\Task Manager.exe
+C:\Users\Gachiman\source\repos\Task-Manager\Task Manager\Task Manager\bin\Debug\Task Manager.pdb
+C:\Users\Gachiman\source\repos\Task-Manager\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.AssemblyReference.cache
+C:\Users\Gachiman\source\repos\Task-Manager\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gachiman\source\repos\Task-Manager\Task Manager\Task Manager\obj\Debug\Task_Manager.Form1.resources
+C:\Users\Gachiman\source\repos\Task-Manager\Task Manager\Task Manager\obj\Debug\Task_Manager.Properties.Resources.resources
+C:\Users\Gachiman\source\repos\Task-Manager\Task Manager\Task Manager\obj\Debug\Task_Manager.Registation.resources
+C:\Users\Gachiman\source\repos\Task-Manager\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.GenerateResource.cache
+C:\Users\Gachiman\source\repos\Task-Manager\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.CoreCompileInputs.cache
+C:\Users\Gachiman\source\repos\Task-Manager\Task Manager\Task Manager\obj\Debug\Task Manager.exe
+C:\Users\Gachiman\source\repos\Task-Manager\Task Manager\Task Manager\obj\Debug\Task Manager.pdb
+C:\Users\Никита\source\repos\Task-Manager\Task Manager\obj\Debug\Task_Manager.MainUser.resources
+C:\Users\Никита\source\repos\Task-Manager\Task Manager\obj\Debug\Task_Manager.SettingsUser.resources
+C:\Users\Никита\source\repos\Task-Manager\Task Manager\obj\Debug\Task_Manager.MainIngener1.resources
+C:\Users\Никита\source\repos\Task-Manager\Task Manager\obj\Debug\Task_Manager.MainIngener2.resources
+C:\Users\Никита\source\repos\Task-Manager\Task Manager\obj\Debug\Task_Manager.Account.resources
+C:\Users\Gachiman\Source\Repos\NewRepo\Task-Manager\Task Manager\bin\Debug\Database1.mdf
+C:\Users\Gachiman\Source\Repos\NewRepo\Task-Manager\Task Manager\bin\Debug\Database1_log.ldf
+C:\Users\Gachiman\Source\Repos\NewRepo\Task-Manager\Task Manager\bin\Debug\Task Manager.exe.config
+C:\Users\Gachiman\Source\Repos\NewRepo\Task-Manager\Task Manager\bin\Debug\Task Manager.exe
+C:\Users\Gachiman\Source\Repos\NewRepo\Task-Manager\Task Manager\bin\Debug\Task Manager.pdb
+C:\Users\Gachiman\Source\Repos\NewRepo\Task-Manager\Task Manager\obj\Debug\Task Manager.csproj.AssemblyReference.cache
+C:\Users\Gachiman\Source\Repos\NewRepo\Task-Manager\Task Manager\obj\Debug\Task Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gachiman\Source\Repos\NewRepo\Task-Manager\Task Manager\obj\Debug\Task_Manager.Account.resources
+C:\Users\Gachiman\Source\Repos\NewRepo\Task-Manager\Task Manager\obj\Debug\Task_Manager.MainIngener1.resources
+C:\Users\Gachiman\Source\Repos\NewRepo\Task-Manager\Task Manager\obj\Debug\Task_Manager.MainIngener2.resources
+C:\Users\Gachiman\Source\Repos\NewRepo\Task-Manager\Task Manager\obj\Debug\Task_Manager.MainUser.resources
+C:\Users\Gachiman\Source\Repos\NewRepo\Task-Manager\Task Manager\obj\Debug\Task_Manager.Properties.Resources.resources
+C:\Users\Gachiman\Source\Repos\NewRepo\Task-Manager\Task Manager\obj\Debug\Task_Manager.Registation.resources
+C:\Users\Gachiman\Source\Repos\NewRepo\Task-Manager\Task Manager\obj\Debug\Task_Manager.SettingsUser.resources
+C:\Users\Gachiman\Source\Repos\NewRepo\Task-Manager\Task Manager\obj\Debug\Task Manager.csproj.GenerateResource.cache
+C:\Users\Gachiman\Source\Repos\NewRepo\Task-Manager\Task Manager\obj\Debug\Task Manager.csproj.CoreCompileInputs.cache
+C:\Users\Gachiman\Source\Repos\NewRepo\Task-Manager\Task Manager\obj\Debug\Task Manager.exe
+C:\Users\Gachiman\Source\Repos\NewRepo\Task-Manager\Task Manager\obj\Debug\Task Manager.pdb
+C:\Users\Gachiman\source\repos\NewRepo\Task-Manager\Task Manager\obj\Debug\Task_Manager.LogIn.resources
+C:\Users\Никита\Source\Repos\NewRepoo\Task Manager\bin\Debug\Database1.mdf
+C:\Users\Никита\Source\Repos\NewRepoo\Task Manager\bin\Debug\Database1_log.ldf
+C:\Users\Никита\Source\Repos\NewRepoo\Task Manager\bin\Debug\Task Manager.exe.config
+C:\Users\Никита\Source\Repos\NewRepoo\Task Manager\bin\Debug\Task Manager.exe
+C:\Users\Никита\Source\Repos\NewRepoo\Task Manager\bin\Debug\Task Manager.pdb
+C:\Users\Никита\Source\Repos\NewRepoo\Task Manager\obj\Debug\Task Manager.csproj.AssemblyReference.cache
+C:\Users\Никита\Source\Repos\NewRepoo\Task Manager\obj\Debug\Task Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Никита\Source\Repos\NewRepoo\Task Manager\obj\Debug\Task_Manager.Account.resources
+C:\Users\Никита\Source\Repos\NewRepoo\Task Manager\obj\Debug\Task_Manager.LogIn.resources
+C:\Users\Никита\Source\Repos\NewRepoo\Task Manager\obj\Debug\Task_Manager.MainIngener1.resources
+C:\Users\Никита\Source\Repos\NewRepoo\Task Manager\obj\Debug\Task_Manager.MainIngener2.resources
+C:\Users\Никита\Source\Repos\NewRepoo\Task Manager\obj\Debug\Task_Manager.MainUser.resources
+C:\Users\Никита\Source\Repos\NewRepoo\Task Manager\obj\Debug\Task_Manager.Properties.Resources.resources
+C:\Users\Никита\Source\Repos\NewRepoo\Task Manager\obj\Debug\Task_Manager.Registation.resources
+C:\Users\Никита\Source\Repos\NewRepoo\Task Manager\obj\Debug\Task_Manager.SettingsUser.resources
+C:\Users\Никита\Source\Repos\NewRepoo\Task Manager\obj\Debug\Task Manager.csproj.GenerateResource.cache
+C:\Users\Никита\Source\Repos\NewRepoo\Task Manager\obj\Debug\Task Manager.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Source\Repos\NewRepoo\Task Manager\obj\Debug\Task Manager.exe
+C:\Users\Никита\Source\Repos\NewRepoo\Task Manager\obj\Debug\Task Manager.pdb
+C:\Users\Gachiman\Source\Repos\NewRep\Task Manager\obj\Debug\Task Manager.csproj.AssemblyReference.cache
+C:\Users\Gachiman\Source\Repos\NewRep\Task Manager\obj\Debug\Task Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gachiman\Source\Repos\NewRep\Task Manager\obj\Debug\Task_Manager.Account.resources
+C:\Users\Gachiman\Source\Repos\NewRep\Task Manager\obj\Debug\Task_Manager.LogIn.resources
+C:\Users\Gachiman\Source\Repos\NewRep\Task Manager\obj\Debug\Task_Manager.MainIngener1.resources
+C:\Users\Gachiman\Source\Repos\NewRep\Task Manager\obj\Debug\Task_Manager.MainIngener2.resources
+C:\Users\Gachiman\Source\Repos\NewRep\Task Manager\obj\Debug\Task_Manager.MainUser.resources
+C:\Users\Gachiman\Source\Repos\NewRep\Task Manager\obj\Debug\Task_Manager.Properties.Resources.resources
+C:\Users\Gachiman\Source\Repos\NewRep\Task Manager\obj\Debug\Task_Manager.Registation.resources
+C:\Users\Gachiman\Source\Repos\NewRep\Task Manager\obj\Debug\Task_Manager.SettingsUser.resources
+C:\Users\Gachiman\Source\Repos\NewRep\Task Manager\obj\Debug\Task Manager.csproj.GenerateResource.cache
+C:\Users\Gachiman\Source\Repos\NewRep\Task Manager\obj\Debug\Task Manager.csproj.CoreCompileInputs.cache
+C:\Users\Gachiman\Source\Repos\NewRep\Task Manager\obj\Debug\Task Manager.exe
+C:\Users\Gachiman\Source\Repos\NewRep\Task Manager\obj\Debug\Task Manager.pdb
+C:\Users\Gachiman\Source\Repos\NewRep\Task Manager\bin\Debug\Database1.mdf
+C:\Users\Gachiman\Source\Repos\NewRep\Task Manager\bin\Debug\Database1_log.ldf
+C:\Users\Gachiman\Source\Repos\NewRep\Task Manager\bin\Debug\Task Manager.exe.config
+C:\Users\Gachiman\Source\Repos\NewRep\Task Manager\bin\Debug\Task Manager.exe
+C:\Users\Gachiman\Source\Repos\NewRep\Task Manager\bin\Debug\Task Manager.pdb
+C:\Users\Gachiman\source\repos\NewRep\Task-Manager\bin\Debug\Database1.mdf
+C:\Users\Gachiman\source\repos\NewRep\Task-Manager\bin\Debug\Database1_log.ldf
+C:\Users\Gachiman\source\repos\NewRep\Task-Manager\bin\Debug\Task Manager.exe.config
+C:\Users\Gachiman\source\repos\NewRep\Task-Manager\bin\Debug\Task Manager.exe
+C:\Users\Gachiman\source\repos\NewRep\Task-Manager\bin\Debug\Task Manager.pdb
+C:\Users\Gachiman\source\repos\NewRep\Task-Manager\obj\Debug\Task Manager.csproj.AssemblyReference.cache
+C:\Users\Gachiman\source\repos\NewRep\Task-Manager\obj\Debug\Task Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gachiman\source\repos\NewRep\Task-Manager\obj\Debug\Task_Manager.Account.resources
+C:\Users\Gachiman\source\repos\NewRep\Task-Manager\obj\Debug\Task_Manager.LogIn.resources
+C:\Users\Gachiman\source\repos\NewRep\Task-Manager\obj\Debug\Task_Manager.MainIngener1.resources
+C:\Users\Gachiman\source\repos\NewRep\Task-Manager\obj\Debug\Task_Manager.MainIngener2.resources
+C:\Users\Gachiman\source\repos\NewRep\Task-Manager\obj\Debug\Task_Manager.MainUser.resources
+C:\Users\Gachiman\source\repos\NewRep\Task-Manager\obj\Debug\Task_Manager.Properties.Resources.resources
+C:\Users\Gachiman\source\repos\NewRep\Task-Manager\obj\Debug\Task_Manager.Registation.resources
+C:\Users\Gachiman\source\repos\NewRep\Task-Manager\obj\Debug\Task_Manager.SettingsUser.resources
+C:\Users\Gachiman\source\repos\NewRep\Task-Manager\obj\Debug\Task Manager.csproj.GenerateResource.cache
+C:\Users\Gachiman\source\repos\NewRep\Task-Manager\obj\Debug\Task Manager.csproj.CoreCompileInputs.cache
+C:\Users\Gachiman\source\repos\NewRep\Task-Manager\obj\Debug\Task Manager.exe
+C:\Users\Gachiman\source\repos\NewRep\Task-Manager\obj\Debug\Task Manager.pdb
